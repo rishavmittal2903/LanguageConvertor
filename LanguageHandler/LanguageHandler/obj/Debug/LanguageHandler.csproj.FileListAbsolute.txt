@@ -1,0 +1,9 @@
+C:\ReactMagic\LanguageConvertor\LanguageHandler\LanguageHandler\bin\Debug\LanguageHandler.dll
+C:\ReactMagic\LanguageConvertor\LanguageHandler\LanguageHandler\bin\Debug\LanguageHandler.pdb
+C:\ReactMagic\LanguageConvertor\LanguageHandler\LanguageHandler\bin\Debug\Newtonsoft.Json.dll
+C:\ReactMagic\LanguageConvertor\LanguageHandler\LanguageHandler\bin\Debug\Newtonsoft.Json.xml
+C:\ReactMagic\LanguageConvertor\LanguageHandler\LanguageHandler\obj\Debug\LanguageHandler.csproj.CoreCompileInputs.cache
+C:\ReactMagic\LanguageConvertor\LanguageHandler\LanguageHandler\obj\Debug\LanguageHandler.csproj.CopyComplete
+C:\ReactMagic\LanguageConvertor\LanguageHandler\LanguageHandler\obj\Debug\LanguageHandler.dll
+C:\ReactMagic\LanguageConvertor\LanguageHandler\LanguageHandler\obj\Debug\LanguageHandler.pdb
+C:\ReactMagic\LanguageConvertor\LanguageHandler\LanguageHandler\obj\Debug\LanguageHandler.csprojAssemblyReference.cache

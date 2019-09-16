@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageHandler", "LanguageHandler\LanguageHandler.csproj", "{AEF919EA-4D9B-4C3B-A299-9AF881D99F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF919EA-4D9B-4C3B-A299-9AF881D99F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF919EA-4D9B-4C3B-A299-9AF881D99F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF919EA-4D9B-4C3B-A299-9AF881D99F0C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AEF919EA-4D9B-4C3B-A299-9AF881D99F0C}.Debug|x64.Build.0 = Debug|Any CPU
+		{AEF919EA-4D9B-4C3B-A299-9AF881D99F0C}.Release|Any CPU.ActiveCfg = Release|x64
+		{AEF919EA-4D9B-4C3B-A299-9AF881D99F0C}.Release|Any CPU.Build.0 = Release|x64
+		{AEF919EA-4D9B-4C3B-A299-9AF881D99F0C}.Release|x64.ActiveCfg = Release|x64
+		{AEF919EA-4D9B-4C3B-A299-9AF881D99F0C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39D5ADC2-EF6E-4646-91A1-32E8EF4D7ABD}
+	EndGlobalSection
+EndGlobal
